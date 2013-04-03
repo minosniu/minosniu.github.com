@@ -37,17 +37,17 @@ Currently Reading
 <style type="text/css" media="screen">
   .gr_grid_container {
     /* customize grid container div here. eg: width: 500px; */
-    height: 200px
+    height: 100px
   }
 
   .gr_grid_book_container {
     /* customize book cover container div here */
     float: left;
-    width: 45px;
-    height: 60px;
-    padding: 10px 0px;
+    width: 98px;
+    height: 160px;
+    padding: 50px 0px;
     overflow: hidden;
   }
 </style>
-<script src="http://www.goodreads.com/review/grid_widget/3482662.C.%20Minos's%20bookshelf:%20read?cover_size=small&hide_link=true&hide_title=true&num_books=6&order=a&shelf=read&sort=date_added&widget_id=1364958627" type="text/javascript" charset="utf-8"></script>
+<script src="http://www.goodreads.com/review/grid_widget/3482662.C.%20Minos's%20bookshelf:%20read?cover_size=medium&hide_link=true&hide_title=true&num_books=6&order=a&shelf=read&sort=date_added&widget_id=1364958627" type="text/javascript" charset="utf-8"></script>
 
