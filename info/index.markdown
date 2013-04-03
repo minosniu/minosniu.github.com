@@ -17,7 +17,7 @@ I grew up in China,
 
 Why going by "Minos"?
 ==========
-I take great proud of my Chinese given name *Chuanxin* but decided to go by *Minos*. Chinese names with "x"
+I take great pride in my Chinese given name *Chuanxin* but decided to go by *Minos*. Chinese names with "x"
 may sound spectacularly unpredictable when attempted in other languages. As much as I appreciate people's effort in saying my name correctly, it frequently "helped" me miss my flights, 
 roll call and even raffles. 
 
