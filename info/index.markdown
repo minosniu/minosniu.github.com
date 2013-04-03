@@ -8,7 +8,7 @@ top: C. Minos Niu
 
 ---
 
-<img class='inset right' src='/images/mark_reid3.jpg' title='Minos Niu' alt='Photo of Minos Niu with sunglasses' width='120px' />
+<img class='inset right' src='/images/minos_niu_moma.jpg' title='Minos Niu' alt='Photo of Minos Niu at MOMA NYC' width='160px' />
 
 About Me
 ========
@@ -37,7 +37,7 @@ Currently Reading
 <style type="text/css" media="screen">
   .gr_grid_container {
     /* customize grid container div here. eg: width: 500px; */
-    height: 100px
+    height: 200px
   }
 
   .gr_grid_book_container {
@@ -45,9 +45,9 @@ Currently Reading
     float: left;
     width: 98px;
     height: 160px;
-    padding: 50px 0px;
+    padding: 0px 10px;
     overflow: hidden;
   }
 </style>
-<script src="http://www.goodreads.com/review/grid_widget/3482662.C.%20Minos's%20bookshelf:%20read?cover_size=medium&hide_link=true&hide_title=true&num_books=6&order=a&shelf=read&sort=date_added&widget_id=1364958627" type="text/javascript" charset="utf-8"></script>
+<script src="http://www.goodreads.com/review/grid_widget/3482662.C.%20Minos's%20bookshelf:%20read?cover_size=medium&amp;hide_link=&amp;hide_title=true&amp;num_books=5&amp;order=d&amp;shelf=currently-reading&amp;sort=date_added&amp;widget_id=1364958627" type="text/javascript" charset="utf-8"></script>
 
