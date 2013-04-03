@@ -5,12 +5,14 @@ title: Home
 section: Home
 ---
 
-<img class='inset right' src='/images/minos_niu.jpg' title='C. Minos Niu' alt='Photo of Minos at Hollywood sign' width='120px' />
+<img class='inset right' src='/images/minos_niu.jpg' title='Minos Niu at Hollywood sign' alt='Photo of Minos at Hollywood sign' width='120px' />
 
 Welcome
 =======
 
-I'm Chuanxin Niu (牛传欣), call me Minos Niu if it's easier. 
+I'm _Chuanxin Niu_ (牛传欣), call me _Minos_ if it's easier. 
+
+You'll see _C. Minos Niu_ in all my publications.
 
 
 +--	{.section}
