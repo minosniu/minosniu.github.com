@@ -17,11 +17,11 @@ I grew up in China,
 
 Why going by "Minos"?
 ==========
-I take great pride in my Chinese given name *Chuanxin* but decided to go by *Minos*. Chinese names with "x"
+I take great pride in my Chinese given name *Chuanxin* (传欣, literally to spread out the prosperity), but decided to go by *Minos*. Chinese names with "x"
 may sound spectacularly unpredictable when attempted in other languages. As much as I appreciate people's effort in saying my name correctly, it frequently "helped" me miss my flights, 
-roll call and even raffles. 
+roll calls and even raffles. 
 
-*Minos* was from a serendipity search in a dictionary. It happens to suggest a taurus, represented by my last name *Niu*. I love such coincidences and so far _Minos_ worked well.
+*Minos* was picked from a serendipity search in a giant English dictionary, which was seemingly the most knowledgable thing at my home before Google was available. People sometimes confuse [Minos](http://en.wikipedia.org/wiki/Minos) with [Minotaur](http://en.wikipedia.org/wiki/Minotaur), a mythological semi-taurus creature. In pure coincidence, my last name *Niu* happens to mean a taurus -- also my family totem. I enjoy such confusions and so far _Minos_ as a name works well.
 
 
 
