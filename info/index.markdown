@@ -29,3 +29,24 @@ About This Site
 ===============
 
 More about the content, design and mechanics of this site can be found in the site's [Colophon](/info/site.html).
+
+
+Currently Reading
+=================
+
+<style type="text/css" media="screen">
+  .gr_grid_container {
+    /* customize grid container div here. eg: width: 500px; */
+  }
+
+  .gr_grid_book_container {
+    /* customize book cover container div here */
+    float: left;
+    width: 39px;
+    height: 60px;
+    padding: 0px 0px;
+    overflow: hidden;
+  }
+</style>
+<script src="http://www.goodreads.com/review/grid_widget/3482662.C.%20Minos's%20bookshelf:%20read?cover_size=small&hide_link=true&hide_title=true&num_books=6&order=a&shelf=read&sort=date_added&widget_id=1364958627" type="text/javascript" charset="utf-8"></script>
+
