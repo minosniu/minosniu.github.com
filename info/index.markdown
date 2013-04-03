@@ -37,14 +37,15 @@ Currently Reading
 <style type="text/css" media="screen">
   .gr_grid_container {
     /* customize grid container div here. eg: width: 500px; */
+    height: 200px
   }
 
   .gr_grid_book_container {
     /* customize book cover container div here */
     float: left;
-    width: 39px;
+    width: 45px;
     height: 60px;
-    padding: 0px 0px;
+    padding: 10px 0px;
     overflow: hidden;
   }
 </style>
