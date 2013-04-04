@@ -31,20 +31,7 @@ by email at [???](mailto:mk.@anu).
 +-- {.section}
 Videos
 ======
-
 A robot finger showed human-like reflexes: 
-
-<object width="300" height="225"><param name="movie" value="http://www.youtube-nocookie.com/v/B9SqG3Gzqbs?hl=en_US&amp;version=3&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube-nocookie.com/v/B9SqG3Gzqbs?hl=en_US&amp;version=3&amp;rel=0" type="application/x-shockwave-flash" width="300" height="225" allowscriptaccess="always" allowfullscreen="true"></embed></object>
-
-EMG-vowel synthesis: 
-=--
-
-+-- {.section}
-Videos
-======
-<a id="sick_robot"></a>
-A robot finger showed human-like reflexes: 
-
 
 <iframe width="300" height="225" src="http://www.youtube.com/embed/B9SqG3Gzqbs" frameborder="0"> </iframe>
 
