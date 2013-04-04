@@ -31,11 +31,12 @@ by email at [???](mailto:mk.@anu).
 +-- {.section}
 Videos
 ======
-A robot finger showed human-like reflexes: 
+* A robot finger with human-like reflexes, real-time spiking neurons: 
 
 <iframe width="300" height="225" src="http://www.youtube.com/embed/B9SqG3Gzqbs?rel=0" frameborder="0"> </iframe>
 
-Using muscles to speak: 
+
+* Using muscles to speak: 
 
 <iframe width="300" height="225" src="http://www.youtube.com/embed/ax2SDaUXjsw?rel=0" frameborder="0"> </iframe>
 =--
