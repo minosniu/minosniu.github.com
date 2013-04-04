@@ -28,6 +28,27 @@ by email at [???](mailto:mk.@anu).
 [nicta]: http://nicta.com.au
 [map]: http://maps.google.com/maps/ms?msa=0&msid=104436549534345141124.00043edbbdf29a2e18167&ie=UTF8&z=17
 
++-- {.section}
+Videos
+======
+
+<a id="sick_robot"></a>
+A robot finger showed human-like reflexes: 
+
+<object width="300" height="225"><param name="movie" value="http://www.youtube-nocookie.com/v/B9SqG3Gzqbs?hl=en_US&amp;version=3&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube-nocookie.com/v/B9SqG3Gzqbs?hl=en_US&amp;version=3&amp;rel=0" type="application/x-shockwave-flash" width="300" height="225" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
+EMG-vowel synthesis: 
+=--
+
++-- {.section}
+Videos
+======
+
+<a id="sick_robot"></a>
+A robot finger showed human-like reflexes: 
+<iframe width="300" height="225" src="http://www.youtube-nocookie.com/embed/B9SqG3Gzqbs?rel=0" frameborder="0" allowfullscreen></iframe>
+
+=--
 
 +-- {.section}
 Activities

@@ -22,7 +22,7 @@ I wonder how brains control movements ...
 
 So I'm building a "brain" on [chip](/work/).
 
-And see if they make robots [alive](/work/).
+And see if they make robots [alive](/work#sick_robot).
 
 If in this "brain" something goes [wrong](/work/) ...
 
