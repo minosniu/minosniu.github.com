@@ -33,8 +33,11 @@ Videos
 ======
 A robot finger showed human-like reflexes: 
 
-<iframe width="300" height="225" src="http://www.youtube.com/embed/B9SqG3Gzqbs" frameborder="0"> </iframe>
+<iframe width="300" height="225" src="http://www.youtube.com/embed/B9SqG3Gzqbs?rel=0" frameborder="0"> </iframe>
 
+Using muscles to speak: 
+
+<iframe width="300" height="225" src="http://www.youtube.com/embed/ax2SDaUXjsw?rel=0" frameborder="0"> </iframe>
 =--
 
 +-- {.section}
