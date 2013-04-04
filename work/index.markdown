@@ -4,7 +4,7 @@ title: Research
 section: Work
 ---
 
-<img class='inset right' src='/images/minos_niu_beach.jpg' title='C. Minos Niu' alt='Photo of Minos Niu at work' width='120px' />
+<img class='inset right' src='/images/minos_niu_beach.jpg' title='C. Minos Niu' alt='Photo of Minos Niu at work' width='160px' />
 
 Research
 ========

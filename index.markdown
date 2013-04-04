@@ -5,7 +5,7 @@ title: Home
 section: Home
 ---
 
-<img class='inset right' src='/images/minos_niu.jpg' title='Minos Niu at Hollywood sign' alt='Photo of Minos at Hollywood sign' width='120px' />
+<img class='inset right' src='/images/minos_niu.jpg' title='Minos Niu at Hollywood sign' alt='Photo of Minos at Hollywood sign' width='160px' />
 
 Welcome
 =======
