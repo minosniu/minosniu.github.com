@@ -1,10 +1,10 @@
 ---
 destination : ~/Sites/minosniu.net
-auto        : false
 lsi         : false
-pygments    : true
+highlight   : true
 permalink   : none
-markdown    : maruku
+markdown    : Kramdown
+markdown_ext: php,markdown,mkdown,mkdn,mkd,md
 
 maruku:
     use_divs: true
