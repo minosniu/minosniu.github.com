@@ -4,7 +4,7 @@ lsi         : false
 highlight   : true
 permalink   : none
 markdown    : Kramdown
-markdown_ext: php,markdown,mkdown,mkdn,mkd,md
+markdown_ext: markdown,mkdown,mkdn,mkd,md
 
 maruku:
     use_divs: true
