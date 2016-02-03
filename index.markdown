@@ -47,7 +47,6 @@ Projects
 Contact
 =======
 
-
-[Twitter](http://twitter.com/cminosniu), [Email](mailto:minos.niu@gmail.com)
+[Email](mailto:minos.niu@gmail.com)
 <section>
 
